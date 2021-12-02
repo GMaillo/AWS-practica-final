@@ -1,0 +1,5 @@
+practica-aws-ec2-kp
+practica-aws-ec2-kp.pub
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
